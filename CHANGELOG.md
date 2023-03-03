@@ -16,5 +16,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * GitHub Workflow to publish binaries automatically incl. version tag for each release
 * Pull-request template
 
-[unreleased]: https://github.com/yawn77/tmplgolang/compare/v0.3.0...HEAD
+[unreleased]: https://github.com/yawn77/tmplgolang/compare/v0.1.0...HEAD
 [v0.1.0]: https://github.com/yawn77/tmplgolang/releases/tag/v0.1.0
